@@ -1,7 +1,7 @@
 # Introduction to Data Science with Python
 In this [Houston Data Science][1] meetup we will introduce our members to data science using the Python programming language.
 
-## Objectives
+## Objectives (6)
 
 * Install Python 3 and set up on your computer via the Anaconda distribution
 * Install Git locally and create a Github account
